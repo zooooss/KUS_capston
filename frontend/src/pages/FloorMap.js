@@ -1,14 +1,14 @@
 import React from "react";
 import { Col, Divider, Row } from "antd";
 
-import img from "../image/FloorMap.jpeg";
+import img from "";
 
-function FloorMap() {
+function () {
   return (
-    <div className="FloorMap">
+    <div className="">
       <img
-        className="FloorMap"
-        alt="FloorMap"
+        className=""
+        alt=""
         src={img}
         style={{ width: "70vw" }}
       />
@@ -16,4 +16,4 @@ function FloorMap() {
   );
 }
 
-export default FloorMap;
+export default ;
